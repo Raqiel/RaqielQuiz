@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468608191934",
+    "project_id": "kiss-69083",
+    "storage_bucket": "kiss-69083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468608191934:android:f2682f68a0925169743def",
+        "android_client_info": {
+          "package_name": "com.example.raqielquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468608191934-v5ke5eovarsc7k7fcs1fpoo1p29jom3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ihs0DvkegaLsPu8iF2q_WWho6ND47rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468608191934-v5ke5eovarsc7k7fcs1fpoo1p29jom3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
