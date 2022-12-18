@@ -29,10 +29,11 @@
         android:hint="Confirm Password"/>
 
     <Button
+        android:id="@+id/create_account_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Criar conta"
-        android:visibility="gone"
+        android:visibility="visible"
         />
 
     <ProgressBar
